@@ -1,0 +1,22 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: lightgrey;
+  height: 10%;
+}
+
+footer input {
+  width: 95%;
+  margin: 1% 2%;
+  height: 40px;
+  font-size: 1.2em;
+  border: 1px solid grey;
+  border-radius: 8px;
+  padding-left: 6px;
+}
+
+main p {
+  border-bottom: 1px solid lightgrey;
+}
